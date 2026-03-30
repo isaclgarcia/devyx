@@ -21,6 +21,3 @@ It serves both as a sandbox and a foundation for scalable projects.
 - Simplicity — avoid unnecessary complexity  
 - Experimentation — encourage testing, prototyping, and iteration  
 
----
-
-## Structure
